@@ -1,0 +1,9 @@
+
+D and D Foods
+
+Coffe		$1.5	100Cal
+Bagels		$2.25	200Cal
+Donuts		$1.25	300Cal
+
+
+
